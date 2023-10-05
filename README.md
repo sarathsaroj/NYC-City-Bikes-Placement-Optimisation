@@ -22,6 +22,8 @@ The data set discusses the following parameters parameters:
 - Year of Birth
 - Gender
 
+Data Source - https://s3.amazonaws.com/tripdata/index.html
+
 We intend to run a GNN ( Graphical Neural Network ) for the New York, CITI bike, looking at the parametrers such as weathear, ridership at a paritucular time of the day, type of user and trip duration, and identify the suitbale locations for placement of bike. We might indetify any possible seasonality, trend and cyclic patterns on the data avaliable by performing time series analysis. If time permits we will also, run other models like RNN, LSTM.
 
 The stations can be represented as nodes in a spatial graph, with edges indicating a ride between two stations. The weight of these edges could be determined by the frequency of rides between two nodes (stations). A Graph Neural Network (GNN) could be utilized to model this problem, as it's designed to work with graph-structured data.
