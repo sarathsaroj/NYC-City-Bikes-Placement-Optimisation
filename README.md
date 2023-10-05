@@ -1,9 +1,12 @@
 # IE-434-Deep-Learning-Project
-Name neid
-Nikhil Arora: na32  
-Gaurav Bhandari: gauravb4  
-Sarath Saroj: ssaroj2  
-Srushti Manjunath: srushti5  
+
+### Team Info
+|   Name            | NetId     |
+| ---------         | ----------|
+| Sarath Saroj      | ssaroj2   |
+| Nikhil Arora      | na32      |
+| Gaurav Bhandari   | gauravb4  |
+| Srushti Manjunath | srushti5  |
 
 The primary objective of this project is to develop a predictive model that accurately forecasts the destination stations of CITI Bike rentals in New York based on historical data. By understanding where a user is likely to dock their bike after renting, we intend to optimize bike allocation, ensuring that stations neither run out nor overflow with bikes. Also, commnent on location of nodes (Biking Stops/Biking Stations)
 
